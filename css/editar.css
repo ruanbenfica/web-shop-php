@@ -1,0 +1,85 @@
+.container {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+body {
+  background-color: #87cefa;
+}
+.alterar-dados {
+  margin: 0 auto;
+  width: 400px;
+  height: 300px;
+  margin-top: 30px;
+  text-align: center;
+  font-size: 20px;
+  background-color: #87cefa;
+}
+
+input {
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  box-shadow: 1px 1px 2px;
+  width: 200px;
+}
+
+.meus-dados {
+  width: 400px;
+  height: 100%;
+  margin: 0 auto;
+  text-align: center;
+  justify-content: center;
+
+  background-color: #87cefa;
+}
+.dados-usuario {
+  width: 398px;
+
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  justify-content: center;
+  background-color: #87cefa;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: bold;
+  color: red;
+}
+header {
+  width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 30px;
+}
+h1::after {
+  display: block;
+  width: 100%;
+  content: ' ';
+  height: 2px;
+  margin-top: 12px;
+
+  background-color: black;
+}
+
+.voltar {
+  
+  width: 140px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 21px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+.erros {
+  font-size: 12px;
+  color: red;
+  margin-top: 5px;
+}
+.alterar{
+margin: 0 auto;
+  width: 100%;
+}

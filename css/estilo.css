@@ -1,0 +1,36 @@
+div#menu{
+    display: flex;
+    margin-left: 80px;
+    margin-top: 30px;
+    margin-right: 80px;
+    
+    
+}
+
+div#logo{
+ margin-left: 110px;
+  
+    
+
+}
+div#login{
+    flex: 4 2 0%;
+    display:flex;
+    justify-content: flex-end;
+    align-items: center;
+   
+    
+
+}
+div#cadastro{
+    flex: 1 1 0%;
+    display:flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-right: 80px;
+    
+
+}
+
+
+
